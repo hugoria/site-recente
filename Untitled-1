@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cabecalho {
+    height: 100px;
+    background-color: rgb(212, 212, 192);
+    margin: 0 auto;
+}
+
+#menu{
+    widht: 20%;
+    height: 600px;
+    background-color: rgb(185, 180, 174);
+    float: left;
+    margin-top: 10px;
+
+}
+
+#principal {
+    widht: 80%;
+    height: 600px;
+    background-color: bisque;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#rodape{
+    height: 50px;
+    background-color: rgb(212, 212, 192);
+    clear:both;
+}
+
+p {
+    text-align: center;
+    front-family: Arial, Helvetica, sans-serif;
+    front-size: 16px;
+    color: blue;
+}
